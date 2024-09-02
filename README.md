@@ -9,6 +9,6 @@ Developed Chatbot that ca retrive all the information from the database whether 
 * **Usage:** Run `streamlit run app.py` or `streamlit run app2.py` and enter a number to check.
 
 **ScreenShots:**
-!(images/1.jpg)
-!(images/2.jpg)
-!(images/3.jpg)
+!(images/1.png)
+!(images/2.png)
+!(images/3.png)
