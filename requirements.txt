@@ -1,0 +1,8 @@
+pysqlite3
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
